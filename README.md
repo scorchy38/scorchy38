@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ## Visitors Count
 
 <img align="left" src = "https://profile-counter.glitch.me/scorchy38/count.svg" alt ="Loading">
+
+[![Shubh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=scorchy38&theme=xcode)](https://git.io/scorchy38)
