@@ -24,3 +24,10 @@ Here are some ideas to get you started:
 <br />
 
 [![Shubh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=scorchy38&theme=xcode)](https://git.io/scorchy38)
+<br />
+<br />
+<br />
+
+| ![Shubh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=scorchy38&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchy38) |
+| --- | --- |
+| ![Praveen GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorchy38) |
