@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <br />
 <br /> -->
 
-| ![Shubh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=scorchy38&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchy38) |
-| --- | --- |
 | ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorchy38) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| --- | --- |
+| ![Shubh's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=scorchy38&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchy38) |
