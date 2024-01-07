@@ -23,6 +23,9 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+# While I am not so active at Github:
+<img align="left" src = "https://firebasestorage.googleapis.com/v0/b/logo-video-generator.appspot.com/o/Screenshot%202024-01-07%20at%206.49.33%E2%80%AFAM.png?alt=media&token=a257d00a-7212-4b93-aef0-4f04e458f4a0" alt ="Gitlab Activity Graph">
+
 <!-- [![Shubh's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=scorchy38&theme=xcode)](https://git.io/scorchy38) -->
 <!-- <br />
 <br />
