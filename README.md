@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 <br /> -->
 
 | ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorchy38) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
-| --- | --- |
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scorchy38) |
+
+### 📈 GitHub Activity Graph:
+![Snake Game](https://raw.githubusercontent.com/scorchy38/scorchy38/generated/github-contribution-grid-snake.svg)
