@@ -32,7 +32,7 @@ jobs:
         with:
           target_branch: generated
           build_dir: dist
-          commit_email: vkumarsaraswat@gmail.com
-          commit_username: scorchy38
+          committer: scorchy38 <vkumarsaraswat@gmail.com>
+          author: scorchy38 <vkumarsaraswat@gmail.com>
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
