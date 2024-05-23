@@ -3,7 +3,7 @@
 ### 📈 GitHub Activity Graph:
 ![Snake Game](https://scorchy38.github.io/scorchy38/github-contribution-grid-snake.svg)
 
-| ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scorchy38) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
+| ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorchy38) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 | --- | --- |
 
 ### While I am not so active at Github:
