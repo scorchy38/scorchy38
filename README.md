@@ -5,7 +5,6 @@
 
 | ![Shubh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=scorchy38) | ![Jokes Card](https://readme-jokes.vercel.app/api) |
 | --- | --- |
-.
 
 ### Visitors Count
 <img align="left" src = "https://profile-counter.glitch.me/scorchy38/count.svg" alt ="Loading">
