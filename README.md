@@ -1,6 +1,6 @@
 ### Hi there!
 
-![Snake Game](https://scorchy38.github.io/scorchy38/github-contribution-grid-snake.svg)
+![Snake Game](https://scorchy38.github.io/scorchy38/github-contribution-grid-snake-dark.svg)
 
 ---
 
